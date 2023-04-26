@@ -5,4 +5,4 @@
 This is an analysis of Aibnb in London, capital of the United Kingdom considering that London is certainly one of the most profitale cities for Airbnb. In this Project I explored the preparation, cleaning data of Airbnb and explore modeling. This project is about exploring the listings data to extract interesting and uselful information, in order to help customers define best Neighbourhood and Room type according to price, minimum ngihts, Reviews by using Python and Tableau.
 
 # Data:
-This dataset describes the listing activity and metrics in London UK in 2022. "http://insideairbnb.com/london/"
+This dataset describes the listing activity and metrics in London UK in 2022. "http://insideairbnb.com/london/", https://public.tableau.com/shared/FHMW45NR5?:display_count=n&:origin=viz_share_link
